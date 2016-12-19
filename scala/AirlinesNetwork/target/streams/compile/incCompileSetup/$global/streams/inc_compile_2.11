@@ -1,0 +1,640 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+38 items
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/Airlines$$anonfun$main$1.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/Airlines$.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/Airlines.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/Airport$.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/Airport.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/Flight$.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/Flight.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$1.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$10.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$11.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$12.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$13.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$14.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$15.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$16.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$17.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$18.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$19.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$2.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$20.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$21.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$22.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$23.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$3.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$4.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$5.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$6.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$7.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$8.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$9.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$buildGraph$1.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$typecreator1$1.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$typecreator2$1.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$typecreator3$1.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$typecreator4$1.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$typecreator5$1.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$typecreator6$1.class
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph.class
+binary dependencies:
+17 items
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> /home/joao/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> /home/joao/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.1.jar
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> /home/joao/.ivy2/cache/org.apache.spark/spark-graphx_2.11/jars/spark-graphx_2.11-2.0.1.jar
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> /home/joao/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.1.jar
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> /home/joao/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> /home/joao/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> /home/joao/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.1.jar
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.1.jar
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/.ivy2/cache/org.apache.spark/spark-graphx_2.11/jars/spark-graphx_2.11-2.0.1.jar
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.1.jar
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+4 items
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> /home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+38 items
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> Airlines
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> Airlines$
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> Airlines$$anonfun$main$1
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> model.Airport
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> model.Airport$
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> model.Flight
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> model.Flight$
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$anonfun$1
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$anonfun$10
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$anonfun$11
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$anonfun$12
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$anonfun$13
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$anonfun$14
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$anonfun$15
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$anonfun$16
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$anonfun$17
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$anonfun$18
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$anonfun$19
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$anonfun$2
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$anonfun$20
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$anonfun$21
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$anonfun$22
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$anonfun$23
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$anonfun$3
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$anonfun$4
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$anonfun$5
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$anonfun$6
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$anonfun$7
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$anonfun$8
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$anonfun$9
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$anonfun$buildGraph$1
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$typecreator1$1
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$typecreator2$1
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$typecreator3$1
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$typecreator4$1
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$typecreator5$1
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model.ManipulateGraph$$typecreator6$1
+used names:
+406 items
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> +
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> <init>
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> ==
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> >
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> Airlines
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> AnyRef
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> Array
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> Dataset
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> ERROR
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> Flight
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> Level
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> Logger
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> ManipulateGraph
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> Predef
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> RDD
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> SQLContext
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> SparkContext
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> SparkSession
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> String
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> Unit
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> apache
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> appName
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> apply
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> args
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> argsStr
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> buildGraph
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> builder
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> command
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> count
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> dayOfMonth
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> dayOfWeek
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> distance
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> edges
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> elem
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> foreach
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> getLogger
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> getOrCreate
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> getTriangle
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> getTriplets
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> graph
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> graphx
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> length
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> log4j
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> mGraph
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> master
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> maxDegree
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> maxInDegree
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> maxOutDegree
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> model
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> month
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> org
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> pageRank
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> println
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> rdd
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> refArrayOps
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> sc
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> scala
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> setLevel
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> shortestPath
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> spark
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> sparkContext
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> sql
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> state
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> vertices
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> year
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> &&
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> <init>
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> ==
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> AbstractFunction7
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> Airport
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> Double
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> None
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> Predef
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> Product
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> ScalaRunTime
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> Serializable
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> Statics
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> String
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> _toString
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> airport
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> anyHash
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> asInstanceOf
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> city
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> country
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> doubleHash
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> eq
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> finalizeHash
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> format
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> iata
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> isInstanceOf
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> java
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> lang
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> latitude
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> longitude
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> mix
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> model
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> runtime
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> scala
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> state
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> toJson
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> toString
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> typedProductIterator
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> ||
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> &&
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> <init>
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> ==
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> ActualElapsedTime
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> AirTime
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> ArrDelay
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> ArrTime
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> CRSArrTime
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> CRSDepTime
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> CRSElapsedTime
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> CancellationCode
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> Cancelled
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> CarrierDelay
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> DayOfWeek
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> DayofMonth
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> DepDelay
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> DepTime
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> Dest
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> Distance
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> Diverted
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> Flight
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> FlightNum
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> Int
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> LateAircraftDelay
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> Month
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> NASDelay
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> Origin
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> Predef
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> Product
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> ScalaRunTime
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> SecurityDelay
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> Serializable
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> Statics
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> String
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> TailNum
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> TaxiIn
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> TaxiOut
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> UniqueCarrier
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> WeatherDelay
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> Year
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> _toString
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> anyHash
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> asInstanceOf
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> eq
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> finalizeHash
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> format
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> isInstanceOf
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> java
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> lang
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> mix
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> model
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> runtime
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> scala
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> toJson
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> toString
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> typedProductIterator
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> ||
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> !=
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> $m
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> $m$untyped
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> $typecreator1
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> $typecreator2
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> $typecreator3
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> $typecreator4
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> $typecreator5
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> $typecreator6
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> $u
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> &&
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> +
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> <init>
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> ==
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> >
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> Airport
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> AnyRef
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> Array
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> BufferedWriter
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> ClassTag
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> ConvertCsvToFlights
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> Dataset
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> DayOfWeek
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> DayofMonth
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> Dest
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> Distance
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> Double
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> DummyImplicit
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> Edge
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> Encoders
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> File
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> FileWriter
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> Flight
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> Graph
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> Int
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> List
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> ManipulateGraph
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> Mirror
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> Month
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> Nil
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> None
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> Nothing
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> Ordering
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> Origin
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> PartitionID
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> Predef
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> RDD
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> Seq
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> ShortestPaths
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> SingleType
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> Singleton
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> SparkContext
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> SparkSession
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> String
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> ThisType
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> Tuple2
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> Type
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> TypeCreator
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> TypeRef
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> TypeTag
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> U
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> Unit
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> Universe
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> VertexId
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> Year
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> _1
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> _2
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> _3
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> airport
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> airports
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> airportsAttr
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> airportsPath
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> apache
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> apply
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> as
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> asInstanceOf
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> asModule
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> asType
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> att
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> attr
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> augmentString
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> base_dir
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> bw
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> cc
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> close
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> collect
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> collection
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> connectedComponents
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> convertCsvToAirports
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> dayOfWeekStr
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> dayofMonthStr
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> defaultAirport
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> deg
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> degreeJson
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> degrees
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> distance
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> distinct
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> dstAttr
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> dummyImplicit
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> f
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> fallbackCanBuildFrom
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> file
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> filePath
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> filter
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> first
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> flatMap
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> flight
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> flights
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> flightsArray
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> flightsPath
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> format
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> g
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> get
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> getClassLoader
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> graph
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> graphAux
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> graphJson
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> graphToGraphOps
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> graph_=
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> graphx
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> hashCode
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> iata
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> immutable
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> implicits
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> inDegrees
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> internal
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> io
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> isInstanceOf
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> java
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> lib
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> load
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> map
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> materializeClassTag
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> materializeTypeTag
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> math
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> mkString
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> model
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> moduleClass
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> monthStr
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> ne
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> newProductEncoder
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> option
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> org
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> outDegrees
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> outerJoinVertices
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> package
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> pageRank
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> parallelize
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> persist
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> pgJson
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> println
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> product
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> qual$1
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> qual$2
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> qual$3
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> qual$4
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> qual$5
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> qual$6
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> qual$7
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> qual$8
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> rdd
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> rddAirports
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> rddAirports_=
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> rddTriplets
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> read
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> refArrayOps
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> reflect
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> reificationSupport
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> relationships
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> result
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> run
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> runtime
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> runtimeMirror
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> saveFile
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> sc
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> scala
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> schema
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> selectType
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> shortestPath
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> sortBy
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> spark
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> sql
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> srcAttr
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> state
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> staticClass
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> staticModule
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> staticPackage
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> str
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> toInt
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> toJson
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> toLong
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> toString
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> toTypeConstructor
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> topVertices
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> triangleCount
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> triangles
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> trianglesJson
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> triplet
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> triplets
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> universe
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> vId
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> vd
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> vertices
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> wrapRefArray
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> write
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$1
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$10
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$11
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$12
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$13
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$14
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$15
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$16
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$17
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$18
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$19
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$2
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$20
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$21
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$22
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$23
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$24
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$25
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$26
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$27
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$28
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$29
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$3
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$30
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$31
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$32
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$33
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$34
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$35
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$36
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$37
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$38
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$4
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$5
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$6
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$7
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$8
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> x$9
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> yearStr
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> ||
+product stamps:
+38 items
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/Airlines$$anonfun$main$1.class -> lastModified(1482114079000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/Airlines$.class -> lastModified(1482114079000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/Airlines.class -> lastModified(1482114079000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/Airport$.class -> lastModified(1482112959000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/Airport.class -> lastModified(1482112959000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/Flight$.class -> lastModified(1482112959000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/Flight.class -> lastModified(1482112959000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$1.class -> lastModified(1482114079000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$10.class -> lastModified(1482114079000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$11.class -> lastModified(1482114079000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$12.class -> lastModified(1482114080000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$13.class -> lastModified(1482114080000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$14.class -> lastModified(1482114080000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$15.class -> lastModified(1482114080000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$16.class -> lastModified(1482114080000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$17.class -> lastModified(1482114080000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$18.class -> lastModified(1482114080000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$19.class -> lastModified(1482114080000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$2.class -> lastModified(1482114080000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$20.class -> lastModified(1482114080000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$21.class -> lastModified(1482114080000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$22.class -> lastModified(1482114080000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$23.class -> lastModified(1482114080000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$3.class -> lastModified(1482114080000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$4.class -> lastModified(1482114080000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$5.class -> lastModified(1482114080000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$6.class -> lastModified(1482114080000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$7.class -> lastModified(1482114080000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$8.class -> lastModified(1482114080000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$9.class -> lastModified(1482114080000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$anonfun$buildGraph$1.class -> lastModified(1482114080000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$typecreator1$1.class -> lastModified(1482114080000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$typecreator2$1.class -> lastModified(1482114080000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$typecreator3$1.class -> lastModified(1482114080000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$typecreator4$1.class -> lastModified(1482114080000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$typecreator5$1.class -> lastModified(1482114080000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph$$typecreator6$1.class -> lastModified(1482114080000)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/target/scala-2.11/classes/model/ManipulateGraph.class -> lastModified(1482114079000)
+source stamps:
+4 items
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> hash(d90ed3355ea6033b94412ef0481b7b45c294a74d)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> hash(f5a05dcdc6fdbfe228c68575b76d5a732136e8b0)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> hash(616f2520ce4e08188d7acdd40ee056433cd29ce0)
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> hash(a667013bf8902dc44ad56b78692903ef79cc0fad)
+binary stamps:
+8 items
+/home/joao/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar -> lastModified(1338025419000)
+/home/joao/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.1.jar -> lastModified(1475112874000)
+/home/joao/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.1.jar -> lastModified(1475112664000)
+/home/joao/.ivy2/cache/org.apache.spark/spark-graphx_2.11/jars/spark-graphx_2.11-2.0.1.jar -> lastModified(1475112953000)
+/home/joao/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.1.jar -> lastModified(1475113023000)
+/home/joao/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457496963000)
+/home/joao/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar -> lastModified(1457496962000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1477592329000)
+class names:
+8 items
+/home/joao/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar -> org.apache.log4j.Level
+/home/joao/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.1.jar -> org.apache.spark.sql.types.StructType
+/home/joao/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.1.jar -> org.apache.spark.rdd.RDD
+/home/joao/.ivy2/cache/org.apache.spark/spark-graphx_2.11/jars/spark-graphx_2.11-2.0.1.jar -> org.apache.spark.graphx.Edge$
+/home/joao/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.1.jar -> org.apache.spark.sql.SparkSession
+/home/joao/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Predef$
+/home/joao/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar -> scala.reflect.api.TypeCreator
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+4 items
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD8ix1OAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMbzrGF0AAZub3RpZnlzcQB+AAysBcYWdAAEd2FpdHNxAH4ADEfV3iV0AA0kYXNJbnN0YW5jZU9mc3EAfgAMLy/f7XQABmVxdWFsc3NxAH4ADM0IBop0AAhBaXJsaW5lc3NxAH4ADFzCWYp0AAxhc0luc3RhbmNlT2ZzcQB+AAz65EbVdAAMc3luY2hyb25pemVkc3EAfgAMZWxmB3QADSRpc0luc3RhbmNlT2ZzcQB+AAxRPqK3dAAEbWFpbnNxAH4ADKpWUJ90AAlub3RpZnlBbGxzcQB+AAx5fzLWdAAMaXNJbnN0YW5jZU9mc3EAfgAM331oaHQAAj09c3EAfgAMIX+8eHQABWNsb25lc3EAfgAM5KGb43QACHRvU3RyaW5nc3EAfgAMjWUNP3QAAiE9c3EAfgAMeNdqmnQACGdldENsYXNzc3EAfgAMQx0u0nQAAm5lc3EAfgAMYy4jJ3QAAmVxc3EAfgAMCCEM3XQAAiMjc3EAfgAMjkVbXnQACGZpbmFsaXplc3EAfgAMYdjz8HQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAXdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBYAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF9zcQB+AFgBdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAfdXEAfgBQAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF50AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBec3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB6dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZ3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AU3QABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AblsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AXnNxAH4AbXQABUFycmF5cQB+AHN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AbXQABlN0cmluZ3NxAH4AcXNxAH4AdHVxAH4AdwAAAANzcQB+AHl0AARqYXZhc3EAfgB5dAAEbGFuZ3EAfgB+cHNxAH4AWAF1cQB+ADwAAAAAcHNxAH4AWAF1cQB+AJIAAAACc3EAfgBtdAAGT2JqZWN0cQB+AJZzcQB+AG10AANBbnlxAH4Ac3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVkU4gSVdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAVC9ob21lL2pvYW8vRGVzZW52b2x2aW1lbnRvL1NwYXJrL1dvcmtzcGFjZS9BaXJsaW5lc05ldHdvcmsvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNkO0zVepgM7lEEu8Egbe0XClKdN
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCi89syAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAKnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cENPKLt0AAZub3RpZnlzcQB+AAzIwC6edAAEY2l0eXNxAH4ADBUbL4F0AAR3YWl0c3EAfgAMYX6/8HQADmNvcHkkZGVmYXVsdCQyc3EAfgAMDAagGHQADSRhc0luc3RhbmNlT2ZzcQB+AAytbzaQdAAIbGF0aXR1ZGVzcQB+AAweVhw5dAAOY29weSRkZWZhdWx0JDVzcQB+AAzFCSQYdAAFc3RhdGVzcQB+AAzyAfPydAAMcHJvZHVjdEFyaXR5c3EAfgAM0KK7r3QABmVxdWFsc3NxAH4ADFw6n1h0AAdBaXJwb3J0c3EAfgAM7MXZanQADGFzSW5zdGFuY2VPZnNxAH4ADKKql/p0AAxzeW5jaHJvbml6ZWRzcQB+AAwEnh/kdAANJGlzSW5zdGFuY2VPZnNxAH4ADGbAQQV0AAhjYW5FcXVhbHNxAH4ADGJm2uV0AAdjb3VudHJ5c3EAfgAMZbsl2HQADmNvcHkkZGVmYXVsdCQ0c3EAfgAM9v7M/nQADXByb2R1Y3RQcmVmaXhzcQB+AAwiMn+jdAAJbm90aWZ5QWxsc3EAfgAMtqaX43QACWxvbmdpdHVkZXNxAH4ADB4PYZR0AAxpc0luc3RhbmNlT2ZzcQB+AAwiCSIXdAAGPGluaXQ+c3EAfgAMccIEgXQAAj09c3EAfgAMUk/vOHQABWNsb25lc3EAfgAM63/QS3QABGlhdGFzcQB+AAxCf8OGdAAGdG9Kc29uc3EAfgAMHvKTX3QADmNvcHkkZGVmYXVsdCQ3c3EAfgAMZV2trHQAB2FpcnBvcnRzcQB+AAzcDGMVdAAOY29weSRkZWZhdWx0JDNzcQB+AAw1OCKodAAEY29weXNxAH4ADB7Ek6F0AAh0b1N0cmluZ3NxAH4ADI+z5Jx0AAIhPXNxAH4ADHyaiFt0AAhnZXRDbGFzc3NxAH4ADJWgFt10AA5jb3B5JGRlZmF1bHQkMXNxAH4ADPK4aJV0AA5jb3B5JGRlZmF1bHQkNnNxAH4ADDMe//B0AAJuZXNxAH4ADKGBNJd0AAJlcXNxAH4ADM2C7Q50AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAw2d95QdAACIyNzcQB+AAwzwrgRdAAIZmluYWxpemVzcQB+AAwyH1tEdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAw8HcHGdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBreHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAANbW9kZWwuQWlycG9ydHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AhHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AgwBwc3EAfgCIc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGtMAAlpbmhlcml0ZWRxAH4Aa0wAB3BhcmVudHNxAH4Aa3hxAH4AjHNxAH4AgwBwc3EAfgCIdXEAfgBmAAAAAHNxAH4AgwBwc3EAfgCIdXEAfgBmAAAAAHNxAH4AgwBwc3EAfgCIdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCLdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCLc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCpc3EAfgCccQB+AJ9zcQB+AKBzcQB+AKN1cQB+AKYAAAADc3EAfgCodAAEamF2YXNxAH4AqHQAAmlvcQB+AK1zcQB+AJx0AAdQcm9kdWN0cQB+AKJzcQB+AJx0AAZFcXVhbHNxAH4AonNxAH4AnHQABk9iamVjdHNxAH4AoHNxAH4Ao3VxAH4ApgAAAANzcQB+AKhxAH4As3NxAH4AqHQABGxhbmdxAH4ArXNxAH4AnHQAA0FueXEAfgCidXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAFbW9kZWxzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVkU0Oh6dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAVC9ob21lL2pvYW8vRGVzZW52b2x2aW1lbnRvL1NwYXJrL1dvcmtzcGFjZS9BaXJsaW5lc05ldHdvcmsvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPWgXc3G/b/iKMaFdbdtWnMhNuiw
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAgaxqTAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAVnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cB3dez50AAZub3RpZnlzcQB+AAzWC17kdAAHVGF4aU91dHNxAH4ADLv/Wa90AA9jb3B5JGRlZmF1bHQkMjBzcQB+AAx88j2TdAAHQWlyVGltZXNxAH4ADMqU78Z0AAxXZWF0aGVyRGVsYXlzcQB+AAweBfzWdAAEd2FpdHNxAH4ADPtPx5d0AApDUlNEZXBUaW1lc3EAfgAMMWjkx3QADmNvcHkkZGVmYXVsdCQyc3EAfgAMmSEel3QADSRhc0luc3RhbmNlT2ZzcQB+AAytnfTsdAAOY29weSRkZWZhdWx0JDVzcQB+AAykwCGWdAAPY29weSRkZWZhdWx0JDI2c3EAfgAMjUsAt3QADHByb2R1Y3RBcml0eXNxAH4ADLqci+B0AAZlcXVhbHNzcQB+AAwe/EHhdAAOY29weSRkZWZhdWx0JDlzcQB+AAzLAzU6dAAFTW9udGhzcQB+AAzZrrHSdAAPY29weSRkZWZhdWx0JDIxc3EAfgAMv9+UenQAD2NvcHkkZGVmYXVsdCQxMnNxAH4ADMr966x0AAREZXN0c3EAfgAMUsoVHHQADENhcnJpZXJEZWxheXNxAH4ADCc/Nkt0AAxhc0luc3RhbmNlT2ZzcQB+AAxR6XIfdAAJRmxpZ2h0TnVtc3EAfgAMm/IpaXQAD2NvcHkkZGVmYXVsdCQxOXNxAH4ADCZn+5N0AA5DUlNFbGFwc2VkVGltZXNxAH4ADERbY0F0AAhEaXZlcnRlZHNxAH4ADCJYGGF0AAhOQVNEZWxheXNxAH4ADOpZ8qN0AAxzeW5jaHJvbml6ZWRzcQB+AAxIhlwrdAAPY29weSRkZWZhdWx0JDI4c3EAfgAMMGVYH3QADSRpc0luc3RhbmNlT2ZzcQB+AAwSExGKdAAGT3JpZ2luc3EAfgAMGCsE5HQAD2NvcHkkZGVmYXVsdCQxNXNxAH4ADIdWyVh0AA5jb3B5JGRlZmF1bHQkOHNxAH4ADMfGqBR0AA9jb3B5JGRlZmF1bHQkMTNzcQB+AAyk/YI9dAAHRGVwVGltZXNxAH4ADLpQFiV0AAhjYW5FcXVhbHNxAH4ADFS6e3h0ABFMYXRlQWlyY3JhZnREZWxheXNxAH4ADMEX/vF0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADLA82/d0AAlEYXlPZldlZWtzcQB+AAwbLG51dAANcHJvZHVjdFByZWZpeHNxAH4ADBWzidV0AA9jb3B5JGRlZmF1bHQkMjlzcQB+AAz6Bw1NdAAEWWVhcnNxAH4ADAV/W0l0AAlub3RpZnlBbGxzcQB+AAzVUnIFdAANU2VjdXJpdHlEZWxheXNxAH4ADOAPxQh0AA9jb3B5JGRlZmF1bHQkMjJzcQB+AAzJTgWIdAAQQ2FuY2VsbGF0aW9uQ29kZXNxAH4ADKLlrzF0AAxpc0luc3RhbmNlT2ZzcQB+AAxtC9rrdAAKRGF5b2ZNb250aHNxAH4ADPLdx3l0AA9jb3B5JGRlZmF1bHQkMThzcQB+AAyBYJNIdAAPY29weSRkZWZhdWx0JDI3c3EAfgAMzo38lXQACkNSU0FyclRpbWVzcQB+AAzptSy+dAAHVGFpbE51bXNxAH4ADI62bjd0AAlDYW5jZWxsZWRzcQB+AAxogGTNdAAPY29weSRkZWZhdWx0JDE2c3EAfgAMiAg2YnQABjxpbml0PnNxAH4ADI2kaxV0AA9jb3B5JGRlZmF1bHQkMjRzcQB+AAy7W6zCdAACPT1zcQB+AAwLOjvrdAAPY29weSRkZWZhdWx0JDE0c3EAfgAMHWv6QnQADVVuaXF1ZUNhcnJpZXJzcQB+AAxy/UwbdAAFY2xvbmVzcQB+AAyn8pYFdAAIQXJyRGVsYXlzcQB+AAwpQmDHdAAGdG9Kc29uc3EAfgAMt/cG83QAD2NvcHkkZGVmYXVsdCQyM3NxAH4ADEdoDGR0AA5jb3B5JGRlZmF1bHQkN3NxAH4ADBEYc4l0AA9jb3B5JGRlZmF1bHQkMTBzcQB+AAzAPia5dAAHQXJyVGltZXNxAH4ADHjpLjZ0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADGdW2rh0AARjb3B5c3EAfgAMHqRFG3QABkZsaWdodHNxAH4ADA3DkyV0AA9jb3B5JGRlZmF1bHQkMTdzcQB+AAyOv/rPdAAIdG9TdHJpbmdzcQB+AAz55GeydAACIT1zcQB+AAwvlRPVdAARQWN0dWFsRWxhcHNlZFRpbWVzcQB+AAz9gj87dAAIZ2V0Q2xhc3NzcQB+AAxLxXJ5dAAGVGF4aUluc3EAfgAMVKJk/HQADmNvcHkkZGVmYXVsdCQxc3EAfgAMw13NN3QADmNvcHkkZGVmYXVsdCQ2c3EAfgAMQ4voQXQACERpc3RhbmNlc3EAfgAM/g7H3nQAAm5lc3EAfgAMwPdGFXQAD2NvcHkkZGVmYXVsdCQyNXNxAH4ADE+uRjR0AA9jb3B5JGRlZmF1bHQkMTFzcQB+AAzHIOeLdAACZXFzcQB+AAw43gGzdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMlvalvXQACERlcERlbGF5c3EAfgAMa9ZySnQAAiMjc3EAfgAMGzluAHQACGZpbmFsaXplc3EAfgAM2CCBbHQADnByb2R1Y3RFbGVtZW50c3EAfgAMUe9cfnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Aw3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQADG1vZGVsLkZsaWdodHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4A3Hhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4A2wBwc3EAfgDgc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AMNMAAlpbmhlcml0ZWRxAH4Aw0wAB3BhcmVudHNxAH4Aw3hxAH4A5HNxAH4A2wBwc3EAfgDgdXEAfgC+AAAAAHNxAH4A2wBwc3EAfgDgdXEAfgC+AAAAAHNxAH4A2wBwc3EAfgDgdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgDjdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgDjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgEBc3EAfgD0cQB+APdzcQB+APhzcQB+APt1cQB+AP4AAAADc3EAfgEAdAAEamF2YXNxAH4BAHQAAmlvcQB+AQVzcQB+APR0AAdQcm9kdWN0cQB+APpzcQB+APR0AAZFcXVhbHNxAH4A+nNxAH4A9HQABk9iamVjdHNxAH4A+HNxAH4A+3VxAH4A/gAAAANzcQB+AQBxAH4BC3NxAH4BAHQABGxhbmdxAH4BBXNxAH4A9HQAA0FueXEAfgD6dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAFbW9kZWxzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVkU0Oh6dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAVC9ob21lL2pvYW8vRGVzZW52b2x2aW1lbnRvL1NwYXJrL1dvcmtzcGFjZS9BaXJsaW5lc05ldHdvcmsvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFGFvJSDOTggYjXrN1A7gVkM80pzg
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAbhZuUAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAKHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cICsJN90AAZub3RpZnlzcQB+AAwQD8tpdAALZ2V0VHJpcGxldHNzcQB+AAwxHwxxdAATQ29udmVydENzdlRvRmxpZ2h0c3NxAH4ADLOtTNh0AAR3YWl0c3EAfgAMBJL0UXQADSRhc0luc3RhbmNlT2ZzcQB+AAyv/HhudAAMYWlycG9ydHNQYXRoc3EAfgAM1LIFC3QABmVxdWFsc3NxAH4ADEhmwPZ0AA9NYW5pcHVsYXRlR3JhcGhzcQB+AAxhvRIUdAAMbWF4T3V0RGVncmVlc3EAfgAMkwiTwnQADGFzSW5zdGFuY2VPZnNxAH4ADKe1dRx0AAxzeW5jaHJvbml6ZWRzcQB+AAwHDNsZdAACc2NzcQB+AAy21pdidAANJGlzSW5zdGFuY2VPZnNxAH4ADAJv9wB0AApidWlsZEdyYXBoc3EAfgAMAboZmHQACW5vdGlmeUFsbHNxAH4ADAzY7Hx0AAtyZGRBaXJwb3J0c3NxAH4ADFLhgv50AAxpc0luc3RhbmNlT2ZzcQB+AAzyaQwDdAAGPGluaXQ+c3EAfgAMh008fXQADHNob3J0ZXN0UGF0aHNxAH4ADL/tTbp0ABRjb252ZXJ0Q3N2VG9BaXJwb3J0c3NxAH4ADJi0j1t0ABNDb25uZWN0ZWRDb21wb25lbnRzc3EAfgAMUQx2eXQACHBhZ2VSYW5rc3EAfgAMKAxWPnQACHNhdmVGaWxlc3EAfgAM8V/Hs3QABXNwYXJrc3EAfgAMwDOv+HQAC2dldFRyaWFuZ2xlc3EAfgAMuENbeXQAAj09c3EAfgAM8+HjPXQABWNsb25lc3EAfgAMN6eOi3QAC21heEluRGVncmVlc3EAfgAMrJU1y3QACHRvU3RyaW5nc3EAfgAM4LOPm3QABWdyYXBoc3EAfgAMIJuIMHQAAiE9c3EAfgAMzDblU3QACGJhc2VfZGlyc3EAfgAMRpJu0HQACGdldENsYXNzc3EAfgAMYzZU8XQAAm5lc3EAfgAMgXyN7HQAAmVxc3EAfgAMo9t5hXQAAiMjc3EAfgAMe2jkF3QACGZpbmFsaXplc3EAfgAM3TZbjnQACGhhc2hDb2Rlc3EAfgAMjd10pnQAC2ZsaWdodHNQYXRoc3EAfgAM9hZLdXQACW1heERlZ3JlZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABVtb2RlbC5NYW5pcHVsYXRlR3JhcGh1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AIB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AH8AcHNxAH4AhHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBnTAAJaW5oZXJpdGVkcQB+AGdMAAdwYXJlbnRzcQB+AGd4cQB+AIhzcQB+AH8AcHNxAH4AhHVxAH4AYgAAAABzcQB+AH8AcHNxAH4AhHVxAH4AYgAAAABzcQB+AH8AcHNxAH4AhHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ah3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ah3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4ApHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4ApXNxAH4AmHQAA0FueXNxAH4AnHNxAH4An3VxAH4AogAAAAJzcQB+AKR0AAVzY2FsYXEAfgCrdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAFbW9kZWxzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVkU4gSVdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAVC9ob21lL2pvYW8vRGVzZW52b2x2aW1lbnRvL1NwYXJrL1dvcmtzcGFjZS9BaXJsaW5lc05ldHdvcmsvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFKZnATv4kC3EStVreGkpA+95zA+t
+external apis:
+0 items
+source infos:
+4 items
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/Airlines.scala -> 
+AAAAAAAAAAA=
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Airport.scala -> 
+AAAAAAAAAAA=
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/Flight.scala -> 
+AAAAAAAAAAA=
+/home/joao/Desenvolvimento/Spark/Workspace/AirlinesNetwork/src/main/scala-2.11/model/ManipulateGraph.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWRTQ6Hp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVC9ob21lL2pvYW8vRGVzZW52b2x2aW1lbnRvL1NwYXJrL1dvcmtzcGFjZS9BaXJsaW5lc05ldHdvcmsvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWRTbP8x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVC9ob21lL2pvYW8vRGVzZW52b2x2aW1lbnRvL1NwYXJrL1dvcmtzcGFjZS9BaXJsaW5lc05ldHdvcmsvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWRTiBJV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVC9ob21lL2pvYW8vRGVzZW52b2x2aW1lbnRvL1NwYXJrL1dvcmtzcGFjZS9BaXJsaW5lc05ldHdvcmsvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
