@@ -2,7 +2,6 @@ package model
 import java.io._
 import org.apache.spark._
 import org.apache.spark.graphx._
-import org.apache.spark.graphx.lib.ShortestPaths
 import org.apache.spark.rdd.RDD
 import org.apache.spark.sql.{Dataset, SparkSession}
 
@@ -130,37 +129,5 @@ class ManipulateGraph(val sc: SparkContext, val spark: SparkSession, val flights
     bw.close()
   }
 
-  def shortestPath(iata: String) : Unit = {
-    val result = ShortestPaths.run(this.graph, Seq(iata.hashCode.toLong))
-    //result.vertices.take(10).foreach(println)
-    val shortestPath = result               // result is a graph
-      .vertices                             // we get the vertices RDD
-      .filter({case(vId, _) => vId == "IND".hashCode.toLong})  // we filter to get only the shortest path from v1
-      .first                                // there's only one value
-      ._2                                   // the result is a tuple (v1, Map)
-      .get(iata.hashCode.toLong)
-
-    println(shortestPath)
-  }
-
-
-
-  def ConnectedComponents(): Unit ={
-    val cc = this.graph.connectedComponents()
-    val joined = this.graph.outerJoinVertices(cc.vertices){(vid, vd, cc) => (vd, cc)}
-    //val filtered = joined.subgraph(vpred = { (vid, vdcc) => vdcc._2 ==  })
-
-//    val joined = g.outerJoinVertices(cc.vertices) {
-//      (vid, vd, cc) => (vd, cc)
-//    }
-//    // Filter by component ID.
-//    val filtered = joined.subgraph(vpred = {
-//      (vid, vdcc) => vdcc._2 == Some(component)
-//    })
-//    // Discard component IDs.
-//    filtered.mapVertices {
-//      (vid, vdcc) => vdcc._1
-//    }
-  }
 
 }
