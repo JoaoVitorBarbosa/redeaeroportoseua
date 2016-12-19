@@ -54,7 +54,6 @@ object Airlines {
       case "degree" => mGraph.maxDegree()
       case "triplets" => mGraph.getTriplets(year, month, dayOfMonth, dayOfWeek, state, distance)
       case "triangle" => mGraph.getTriangle()
-      case "shortestPath" => mGraph.shortestPath("TPA")
     }
   }
 }
