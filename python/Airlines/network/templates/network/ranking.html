@@ -1,0 +1,43 @@
+{% extends "network/layout.html" %}
+
+{% load staticfiles %}
+
+{% block contentHead %}
+<script type="application/javascript" src="{% static 'network/static/network/js/ranking.js' %}"></script>
+{% endblock %}
+
+{% block content %}
+
+<h2 class="page-header">Page Ranking</h2>
+<div class="row placeholders">
+
+	<div style="margin: 10px; display: block;">
+			
+		<div class="btn-group-vertical" role="group" aria-label="Vertical button group" style="float: left">
+            <button type="button" id="get-pagerank" data-loading-text="Loading..." class="btn btn-default right" autocomplete="off">
+				PageRanking
+			</button>
+			<button type="button" id="get-degree" data-loading-text="Loading..." class="btn btn-default right" autocomplete="off">
+				Top Degree
+			</button>
+			<button type="button" id="get-indegree" data-loading-text="Loading..." class="btn btn-default right" autocomplete="off">
+				Top InDegree
+			</button>
+			<button type="button" id="get-outdegree" data-loading-text="Loading..." class="btn btn-default right" autocomplete="off">
+				Top OutDegree
+			</button>
+			<button type="button" id="get-triangle" data-loading-text="Loading..." class="btn btn-default right" autocomplete="off">
+				Top Triangles
+			</button>
+        </div>
+		
+		<div style="float: left; margin-left: 30px; width: 800px;" id="divTable">
+			
+		</div>
+
+	</div>
+
+
+</div>
+
+{% endblock %}

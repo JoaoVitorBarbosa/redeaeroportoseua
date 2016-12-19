@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load staticfiles %}
+    <link rel="stylesheet" type="text/css" href="{% static 'network/static/network/bootstrap/css/bootstrap.css' %}" />
+    <link rel="stylesheet" type="text/css" href="{% static 'network/static/network/css/dashboard.css' %}" />
+    <link rel="stylesheet" type="text/css" href="{% static 'network/static/network/css/site.css' %}" />
+
+    <script type="application/javascript" src="{% static 'network/static/network/js/jquery-1.12.0.js' %}"></script>
+    <script type="application/javascript" src="{% static 'network/static/network/bootstrap/js/bootstrap.js' %}"></script>
+	  
+    
+    {% block contentHead %}{% endblock %}
+
+    <meta charset="UTF-8">
+    <title>Rede de Aeroportos dos EUA</title>
+</head>
+<body>
+
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Rede de Aeroportos dos EUA</a>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-3 col-md-2 sidebar">
+          <ul class="nav nav-sidebar">
+            <li id="li-index" class=""><a href="{% url 'index' %}">Network <span class="sr-only">(current)</span></a></li>
+            <li id="li-ranking" class=""><a href="{% url 'ranking' %}">Ranking<span class="sr-only">(current)</span></a></li>
+          </ul>
+          <ul class="nav nav-sidebar">
+          </ul>
+          <ul class="nav nav-sidebar">
+          </ul>
+        </div>
+        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+       {% block content %}{% endblock %}
+        </div>
+      </div>
+    </div>
+
+  </body>

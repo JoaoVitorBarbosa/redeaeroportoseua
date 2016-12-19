@@ -1,0 +1,13 @@
+.input-text{
+	height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    background-color: #fff; 
+    color: #555
+}
+
+.form-control{
+	margin-top: 10px !important;
+}

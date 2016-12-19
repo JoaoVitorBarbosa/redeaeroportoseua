@@ -1,0 +1,39 @@
+{% extends "network/layout.html" %}
+
+{% load staticfiles %}
+
+{% block contentHead %}
+<script type="application/javascript" src="{% static 'network/static/network/js/network.js' %}"></script>
+{% endblock %}
+
+{% block content %}
+
+<h1 class="page-header">Grafo</h1>
+<div class="row placeholders">
+
+    <!-- <input id="max-degree" type="button" class="btn btn-default" value="Max degree">-->
+    <!-- <input id="get-graph" type="button" class="btn btn-default" value="Load Graph"> -->
+
+	<div>
+		<button type="button" id="get-graph" data-loading-text="Loading..." class="btn btn-primary right" autocomplete="off">
+			Load Graph
+		</button>
+	</div>
+
+	<div style="margin: 10px; display: block;">
+		<div style="float: left;">
+			<span>Filtro</span>
+			<input id="year" type="text" placeholder="Year" class="form-control" value="2008" readonly="">
+			<input id="month" type="text" placeholder="Month" class="form-control">
+			<input id="dayOfMonth" type="text" placeholder="Day of Month" class="form-control">
+			<input id="dayOfWeek" type="text" placeholder="Day of Week" class="form-control">
+			<input id="distance" type="text" placeholder="Distance greater" class="form-control">
+			<select id="state" class="form-control"></select>
+		</div>
+		<div style="margin-left: 10px; float: left;">
+			<canvas style="border-radius: 4px; border: solid 1px;" id="graph-canvas" width="900" height="400"></canvas>
+		</div>
+	</div>
+</div>
+
+{% endblock %}
